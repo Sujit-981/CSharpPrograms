@@ -1,0 +1,8 @@
+D:\Repos\CheckForSubstrings\CheckForSubstrings\bin\Debug\CheckForSubstrings.exe.config
+D:\Repos\CheckForSubstrings\CheckForSubstrings\bin\Debug\CheckForSubstrings.exe
+D:\Repos\CheckForSubstrings\CheckForSubstrings\bin\Debug\CheckForSubstrings.pdb
+D:\Repos\CheckForSubstrings\CheckForSubstrings\obj\Debug\CheckForSubstrings.csproj.AssemblyReference.cache
+D:\Repos\CheckForSubstrings\CheckForSubstrings\obj\Debug\CheckForSubstrings.csproj.SuggestedBindingRedirects.cache
+D:\Repos\CheckForSubstrings\CheckForSubstrings\obj\Debug\CheckForSubstrings.csproj.CoreCompileInputs.cache
+D:\Repos\CheckForSubstrings\CheckForSubstrings\obj\Debug\CheckForSubstrings.exe
+D:\Repos\CheckForSubstrings\CheckForSubstrings\obj\Debug\CheckForSubstrings.pdb
