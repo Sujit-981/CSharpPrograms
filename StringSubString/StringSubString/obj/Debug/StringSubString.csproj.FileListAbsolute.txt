@@ -1,8 +1,0 @@
-C:\Users\Sujit Sahukar\source\repos\Folder\StringSubString\StringSubString\bin\Debug\StringSubString.exe.config
-C:\Users\Sujit Sahukar\source\repos\Folder\StringSubString\StringSubString\bin\Debug\StringSubString.exe
-C:\Users\Sujit Sahukar\source\repos\Folder\StringSubString\StringSubString\bin\Debug\StringSubString.pdb
-C:\Users\Sujit Sahukar\source\repos\Folder\StringSubString\StringSubString\obj\Debug\StringSubString.csproj.AssemblyReference.cache
-C:\Users\Sujit Sahukar\source\repos\Folder\StringSubString\StringSubString\obj\Debug\StringSubString.csproj.SuggestedBindingRedirects.cache
-C:\Users\Sujit Sahukar\source\repos\Folder\StringSubString\StringSubString\obj\Debug\StringSubString.csproj.CoreCompileInputs.cache
-C:\Users\Sujit Sahukar\source\repos\Folder\StringSubString\StringSubString\obj\Debug\StringSubString.exe
-C:\Users\Sujit Sahukar\source\repos\Folder\StringSubString\StringSubString\obj\Debug\StringSubString.pdb
