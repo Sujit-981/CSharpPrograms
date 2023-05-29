@@ -1,0 +1,8 @@
+D:\Repos\MaxFourDigitProduct\MaxFourDigitProduct\bin\Debug\MaxFourDigitProduct.exe.config
+D:\Repos\MaxFourDigitProduct\MaxFourDigitProduct\bin\Debug\MaxFourDigitProduct.exe
+D:\Repos\MaxFourDigitProduct\MaxFourDigitProduct\bin\Debug\MaxFourDigitProduct.pdb
+D:\Repos\MaxFourDigitProduct\MaxFourDigitProduct\obj\Debug\MaxFourDigitProduct.csproj.AssemblyReference.cache
+D:\Repos\MaxFourDigitProduct\MaxFourDigitProduct\obj\Debug\MaxFourDigitProduct.csproj.SuggestedBindingRedirects.cache
+D:\Repos\MaxFourDigitProduct\MaxFourDigitProduct\obj\Debug\MaxFourDigitProduct.csproj.CoreCompileInputs.cache
+D:\Repos\MaxFourDigitProduct\MaxFourDigitProduct\obj\Debug\MaxFourDigitProduct.exe
+D:\Repos\MaxFourDigitProduct\MaxFourDigitProduct\obj\Debug\MaxFourDigitProduct.pdb
